@@ -1,6 +1,6 @@
-# Samuel Yu · 余宗霖
+# Sam (Zonglin) Yu · 余宗霖
 
-Business student at HKU, based in Hong Kong. I explore credit research, financial data and software that makes analysis easier to inspect.
+Accounting and Data Analytics student at HKU, based in Hong Kong. I explore credit research, financial data and software that makes analysis easier to inspect.
 
 ## Selected work
 
@@ -12,4 +12,6 @@ Business student at HKU, based in Hong Kong. I explore credit research, financia
 - Making analytical assumptions visible.
 - Building tools that people can question and improve.
 
-[Personal site](https://yuzonglinsam.github.io/) · [Repositories](https://github.com/yuzonglinsam?tab=repositories)
+My experience includes audit testing, bank reconciliation and reporting at BDO China Shu Lun Pan CPAs, and SEC EDGAR research workflows at HKU Business School.
+
+[Personal site](https://yuzonglinsam.github.io/) · [LinkedIn](https://www.linkedin.com/in/yuzonglin) · [Repositories](https://github.com/yuzonglinsam?tab=repositories)
