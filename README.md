@@ -2,6 +2,8 @@
 
 Accounting and Data Analytics student at HKU, based in Hong Kong. I explore credit research, financial data and software that makes analysis easier to inspect.
 
+**Seeking a 2027 summer internship in Hong Kong.**
+
 ## Selected work
 
 **[Tickmark](https://github.com/yuzonglinsam/tickmark)** — A credit research workspace built around SEC filings, financial measures and source references. [Explore the project](https://tickmark-gules.vercel.app).
